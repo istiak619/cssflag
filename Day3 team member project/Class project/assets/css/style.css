@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  background-image: linear-gradient(to right, #fff, rgb(158, 143, 143));
+}
+
+.team {
+  text-align: center;
+  padding: 30px 0px;
+  width: 33.33%;
+  float: left;
+}
+
+.team img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.team h2 {
+  font-family: Edwardian Script ITC;
+  font-weight: normal;
+  color: #fff;
+  font-size: 40px;
+}
+
+.team p {
+  font-family: Edwardian Script ITC;
+  color: yellow;
+  width: 70%;
+  margin: 0px auto;
+  font-size: 24px;
+}
